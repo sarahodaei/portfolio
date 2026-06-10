@@ -6,26 +6,19 @@ const experiences = [
     description: "Foundation in classical and modern physics. Built rigorous mathematical intuition across theoretical and applied domain.",
     tags: ["Mathematics", "Statistics"],
   },
-   {
-    date: "Nov 2023 — Feb 2024",
-    title: "Junior Data Scientist",
-    company: "Pishtaz",
-    description: "Worked with live network and customer datasets in an ISP environment. Automated SQL and Python reporting workflows that replaced manual Excel processes. Supported anomaly detection on usage patterns and contributed to dashboards tracking network uptime, churn indicators, and regional bandwidth performance.",
-    tags: ["Python", "SQL", "Power BI", "Anomaly Detection", "Reporting"],
-  },
-  {
-    date: "Mar 2024 — Sep 2024",
-    title: "Data Scientist",
-    company: "Pishtaz",
-    description: "Owned end-to-end analysis projects across customer behaviour and network performance. Built Power BI dashboards for 20+ stakeholders, developed churn prediction and customer segmentation pipelines in Python, and designed automated data validation workflows that reduced manual processing time across the business.",
-    tags: ["Python", "SQL", "Power BI", "Churn Prediction", "Customer Analytics"],
-  },
   {
     date: "Sep 2024 — Sep 2025",
     title: "MSc Data Science — Distinction",
     company: "University of Greenwich",
     description: "Specialising in machine learning, deep learning, and natural language processing. Dissertation on rare-word retention in abstractive summarisation currently being prepared for academic publication.",
     tags: ["Machine Learning", "NLP", "Deep Learning", "Research"],
+  },
+  {
+    date: "May 2026 - Present",
+    title: "Data Scientist",
+    company: "Community Dreams Foundation",
+    description: "Contributing to the development of a private SaaS platform, with responsibility for the design and implementation of AI-driven data solutions, NLP workflows, and data architecture. Collaborate closely with backend engineers throughout the development lifecycle, translating product requirements into scalable data models, database structures, and machine learning pipelines while supporting system design, testing, and technical documentation.",
+    tags: ["ETL", "NLP", "Data Engineering", "Database Design", "PostgreSQL"],
   }
 ]
 
